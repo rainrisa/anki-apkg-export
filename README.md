@@ -1,6 +1,9 @@
-# anki-apkg-export
+> This repository is a fork of [repeat-space/anki-apkg-export](https://github.com/repeat-space/anki-apkg-export).
+> It was created to support another project of mine: [md2apkg](https://github.com/Steve2955/md2apkg).
+> Currently, the changes within this repository are explicitly to support [md2apkg](https://github.com/Steve2955/md2apkg) since [repeat-space/anki-apkg-export](https://github.com/repeat-space/anki-apkg-export) hasn't been maintained well.
 
-[![Build Status](https://travis-ci.org/repeat-space/anki-apkg-export.svg?branch=master)](https://travis-ci.org/repeat-space/anki-apkg-export)
+
+# anki-apkg-export
 
 Universal module for generating decks for Anki.
 
