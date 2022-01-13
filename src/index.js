@@ -1,6 +1,6 @@
 import Exporter from './exporter.js';
 import createTemplate from './template.js';
-import sql from 'sql.js';
+import sql from 'sql.js/js/sql-memory-growth.js';
 
 export { Exporter };
 
