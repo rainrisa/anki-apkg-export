@@ -1,5 +1,5 @@
 {
-  "name": "@steve2955/anki-apkg-export",
+  "name": "@rainrisa/anki-apkg-export",
   "description": "Generate decks for Anki (spaced repetition software)",
   "version": "5.0.0",
   "main": "src/index.js",
@@ -20,7 +20,7 @@
 	"type":"module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Steve2955/anki-apkg-export.git"
+    "url": "git+https://github.com/rainrisa/anki-apkg-export.git"
   },
   "scripts": {
     "build:watch": "babel -w -d dist src",
